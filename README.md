@@ -154,6 +154,6 @@ Built a reusable executive analytics dashboard for a hypothetical multinational 
 - Browser-based analytics
 - Power BI-ready dataset
 
-## Project Status
 
-Version 1 is complete and ready for portfolio use. Future enhancements may include true chart cross-filtering, map visualization, advanced forecasting, AI narrative insights, and Power BI replication.
+
+
