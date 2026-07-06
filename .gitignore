@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+
+# Python cache, if scripts are added later
+__pycache__/
+*.pyc
+
+# Large exports or local working files
+exports/
+local/
